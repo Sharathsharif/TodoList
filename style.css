@@ -1,0 +1,29 @@
+*{
+    margin: 0%;
+    
+}
+
+nav{
+    background-color: rgba(137, 43, 226, 0.711);
+    color: black;
+    height: 80px;
+    align-items: center;
+    align-content: center;
+    padding-left: 50px;
+
+    position: relative;
+    display: flex;
+
+}
+.inputsection{
+    padding: 50px;
+
+}
+.inputsection input{
+    display: inline-block;
+    width: 400px;
+    margin: auto;
+}
+#todocontainer{
+    
+}
